@@ -16,7 +16,7 @@
    id="svg6679"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="P17-27.svg">
+   sodipodi:docname="P17-29.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#cdcdcd"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25223007"
-     inkscape:cx="657.13808"
-     inkscape:cy="939.90597"
+     inkscape:zoom="0.19305302"
+     inkscape:cx="1215.5689"
+     inkscape:cy="3736.9485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1058,7 +1058,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1088,12 +1088,12 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/000fondo1.png"
        xlink:href="000fondo1.png"
-       y="3843.7854"
-       x="1193.7963"
-       id="image5334"
-       preserveAspectRatio="none"
+       width="1055.1"
        height="749.40002"
-       width="1055.1" />
+       preserveAspectRatio="none"
+       id="image5334"
+       x="1193.7963"
+       y="3843.7854" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect9782"
@@ -1112,12 +1112,12 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/000fondo1.png"
        xlink:href="000fondo1.png"
-       y="-627.40314"
-       x="1193.8875"
-       id="image5385"
-       preserveAspectRatio="none"
+       width="1055.1"
        height="749.40002"
-       width="1055.1" />
+       preserveAspectRatio="none"
+       id="image5385"
+       x="1193.8875"
+       y="-627.40314" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6727"
@@ -1128,30 +1128,30 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/000fondo1.png"
        xlink:href="000fondo1.png"
-       y="1184.4117"
-       x="1196.6249"
+       width="1055.1"
+       height="749.40002"
+       preserveAspectRatio="none"
        id="image6004"
+       x="1196.6249"
+       y="1184.4117" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/000fondo1.png"
+       xlink:href="000fondo1.png"
+       y="2960.8418"
+       x="1193.8875"
+       id="image8040"
        preserveAspectRatio="none"
        height="749.40002"
        width="1055.1" />
     <image
-       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/000fondo1.png"
-       xlink:href="000fondo1.png"
-       width="1055.1"
-       height="749.40002"
-       preserveAspectRatio="none"
-       id="image8040"
-       x="1193.8875"
-       y="2960.8418" />
-    <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/27.JPG"
        xlink:href="imagenes/27.JPG"
-       width="423.36465"
-       height="282.2431"
-       preserveAspectRatio="none"
-       id="image7702"
+       y="3401.9985"
        x="1193.8875"
-       y="3401.9985" />
+       id="image7702"
+       preserveAspectRatio="none"
+       height="282.2431"
+       width="423.36465" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6920"
@@ -1162,33 +1162,33 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/7.JPG"
        xlink:href="imagenes/7.JPG"
-       y="2327.7297"
-       x="-125.83952"
-       id="image5340"
-       preserveAspectRatio="none"
-       height="661.88568"
-       width="992.82855"
+       transform="matrix(1.0516129,0,0,1.0516129,132.33412,-122.05503)"
        clip-path="url(#clipPath5436)"
-       transform="matrix(1.0516129,0,0,1.0516129,132.33412,-122.05503)" />
-    <image
-       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/fondoPortada.png"
-       xlink:href="fondoPortada.png"
-       style="opacity:1"
-       y="-622.09808"
-       x="-0.00034410373"
-       id="image6876"
+       width="992.82855"
+       height="661.88568"
        preserveAspectRatio="none"
-       height="744.09497"
-       width="1052.3625" />
+       id="image5340"
+       x="-125.83952"
+       y="2327.7297" />
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/fondoPortada.png"
        xlink:href="fondoPortada.png"
        width="1052.3625"
        height="744.09497"
        preserveAspectRatio="none"
-       id="image6873"
+       id="image6876"
        x="-0.00034410373"
-       y="1184.4117" />
+       y="-622.09808"
+       style="opacity:1" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/fondoPortada.png"
+       xlink:href="fondoPortada.png"
+       y="1184.4117"
+       x="-0.00034410373"
+       id="image6873"
+       preserveAspectRatio="none"
+       height="744.09497"
+       width="1052.3625" />
     <rect
        y="308.26724"
        x="-0.00034410373"
@@ -1199,21 +1199,21 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/5 .jpg"
        xlink:href="imagenes/5 .jpg"
-       width="428.99417"
-       height="286.13574"
-       preserveAspectRatio="none"
-       id="image6478"
+       y="378.55771"
        x="0"
-       y="378.55771" />
+       id="image6478"
+       preserveAspectRatio="none"
+       height="286.13574"
+       width="428.99417" />
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/000fondo1.png"
        xlink:href="000fondo1.png"
-       width="1055.1"
-       height="749.40002"
-       preserveAspectRatio="none"
-       id="image6617"
+       y="302.96219"
        x="1193.8875"
-       y="302.96219" />
+       id="image6617"
+       preserveAspectRatio="none"
+       height="749.40002"
+       width="1055.1" />
     <flowRoot
        transform="translate(68.50097,9.201941)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1596,12 +1596,12 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/3 .jpg"
        xlink:href="imagenes/3 .jpg"
-       width="410.74475"
-       height="286.79932"
-       preserveAspectRatio="none"
-       id="image6207"
+       y="-253.80762"
        x="1837.0023"
-       y="-253.80762" />
+       id="image6207"
+       preserveAspectRatio="none"
+       height="286.79932"
+       width="410.74475" />
     <flowRoot
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="flowRoot6218"
@@ -1625,14 +1625,14 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'">categoría de Empresa Socialmente Responsable.</flowSpan></flowPara></flowRoot>    <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/4 .jpg"
        xlink:href="imagenes/4 .jpg"
-       transform="translate(-555.01424,894.24461)"
-       clip-path="url(#clipPath6339)"
-       width="590.65912"
-       height="289.81674"
-       preserveAspectRatio="none"
-       id="image6334"
+       y="-193.586"
        x="1120.0297"
-       y="-193.586" />
+       id="image6334"
+       preserveAspectRatio="none"
+       height="289.81674"
+       width="590.65912"
+       clip-path="url(#clipPath6339)"
+       transform="translate(-555.01424,894.24461)" />
     <flowRoot
        transform="translate(-1167.4675,1209.9782)"
        xml:space="preserve"
@@ -1849,12 +1849,12 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'">nuestro Plan de Igualdad</flowSpan>, que tiene por objeto incorporar medidas innovadoras para hacer realidad la igualdad y proporcionar servicios que faciliten la conciliación de la vida familiar y laboral del personal.</flowPara></flowRoot>    <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/6 .jpg"
        xlink:href="imagenes/6 .jpg"
-       width="183.80473"
-       height="174.79469"
-       preserveAspectRatio="none"
-       id="image6686"
+       y="774.44513"
        x="1944.2373"
-       y="774.44513" />
+       id="image6686"
+       preserveAspectRatio="none"
+       height="174.79469"
+       width="183.80473" />
     <rect
        y="694.09039"
        x="1193.3457"
@@ -1935,12 +1935,12 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/2.jpg"
        xlink:href="imagenes/2.jpg"
-       width="615.56396"
-       height="485.97879"
-       preserveAspectRatio="none"
-       id="image7086"
+       y="1225.0818"
        x="1619.4233"
-       y="1225.0818" />
+       id="image7086"
+       preserveAspectRatio="none"
+       height="485.97879"
+       width="615.56396" />
     <path
        transform="matrix(1.0074864,0,0,0.82853117,-17.751243,309.89137)"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f25b20;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.43727148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5965-6);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2081,12 +2081,12 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/000fondo1.png"
        xlink:href="000fondo1.png"
-       y="2065.3806"
-       x="1193.8875"
-       id="image6924"
-       preserveAspectRatio="none"
+       width="1055.1"
        height="749.40002"
-       width="1055.1" />
+       preserveAspectRatio="none"
+       id="image6924"
+       x="1193.8875"
+       y="2065.3806" />
     <g
        id="g5442"
        clip-path="url(#clipPath5446)"
@@ -2260,14 +2260,14 @@
            y="200.10461"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara5314">El proceso de acogida permite establecer un primer contacto con las personas para conocer su situación global y a su vez que éstas conozcan los servicios que les puede ofrecer Novatera. Un  proceso que se desarrolla en coordinación con multitud de entidades y Servicios Sociales municipales que derivan a las personas susceptibles de ser beneficiadas del proyecto a Créixer para iniciar su recorrido de inserción socio-laboral.</flowPara></flowRoot>    <image
-       width="904.71753"
-       height="282.12894"
-       preserveAspectRatio="none"
-       id="image3545"
-       x="1282.8348"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/p15.jpg"
+       xlink:href="imagenes/p15.jpg"
        y="2186.8696"
-       xlink:href="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/images/p15.jpg"
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/images/p15.jpg" />
+       x="1282.8348"
+       id="image3545"
+       preserveAspectRatio="none"
+       height="282.12894"
+       width="904.71753" />
     <g
        id="g5652"
        transform="matrix(1.1146768,0,0,1.1146768,-228.52016,-293.65281)">
@@ -2939,12 +2939,12 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'">recursos formativos</flowSpan>, tanto individuales como en grupo, principalmente de tres tipos:</flowPara></flowRoot>    <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/26.JPG"
        xlink:href="imagenes/26.JPG"
-       y="3096.6912"
-       x="1822.5251"
-       id="image8276"
-       preserveAspectRatio="none"
+       width="423.36465"
        height="282.24313"
-       width="423.36465" />
+       preserveAspectRatio="none"
+       id="image8276"
+       x="1822.5251"
+       y="3096.6912" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot8279"
@@ -3247,12 +3247,12 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/10.jpg"
        xlink:href="imagenes/10.jpg"
-       width="518.8692"
-       height="291.2153"
-       preserveAspectRatio="none"
-       id="image8006"
+       y="4253.4688"
        x="533.49298"
-       y="4253.4688" />
+       id="image8006"
+       preserveAspectRatio="none"
+       height="291.2153"
+       width="518.8692" />
     <path
        inkscape:connector-curvature="0"
        id="path8028"
@@ -3450,12 +3450,12 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/28.jpg"
        xlink:href="imagenes/28.jpg"
-       y="4053.2949"
-       x="1279.0515"
-       id="image5450"
-       preserveAspectRatio="none"
+       width="140"
        height="140"
-       width="140" />
+       preserveAspectRatio="none"
+       id="image5450"
+       x="1279.0515"
+       y="4053.2949" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5376"
@@ -3471,30 +3471,30 @@
          id="flowPara5386">Como cada año varias empresas colaboran con Novaterra a través del voluntariado corporativo. Profesionales de distintas áreas entrenan a nuestra gente en diversos talleres sobre competencias y habilidades básicas para el empleo de manera completamente altruista.</flowPara></flowRoot>    <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/29.jpg"
        xlink:href="imagenes/29.jpg"
-       y="4057.7673"
-       x="1445.825"
-       id="image5515"
-       preserveAspectRatio="none"
+       width="127.18512"
        height="127.83237"
-       width="127.18512" />
+       preserveAspectRatio="none"
+       id="image5515"
+       x="1445.825"
+       y="4057.7673" />
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/30.jpg"
        xlink:href="imagenes/30.jpg"
-       y="4054.8496"
-       x="1825.3441"
-       id="image5580"
-       preserveAspectRatio="none"
+       width="148.1082"
        height="148.1082"
-       width="148.1082" />
+       preserveAspectRatio="none"
+       id="image5580"
+       x="1825.3441"
+       y="4054.8496" />
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/32.jpg"
        xlink:href="imagenes/32.jpg"
-       y="4082.1333"
-       x="1984.365"
-       id="image5693"
-       preserveAspectRatio="none"
+       width="188.61441"
        height="72.224251"
-       width="188.61441" />
+       preserveAspectRatio="none"
+       id="image5693"
+       x="1984.365"
+       y="4082.1333" />
     <rect
        y="4228.9004"
        x="1388.561"
@@ -3707,12 +3707,12 @@
          id="flowPara5922">Tras las entrevistas, el equipo técnico de Novaterra se reúne con las personas entrevistadoras para analizar los resultados y seguir trabajando estos aspectos a mejorar en el itinerario personalizado de cada una de estas personas.</flowPara></flowRoot>    <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/34.jpg"
        xlink:href="imagenes/34.jpg"
-       y="4824.3389"
-       x="694.66913"
-       id="image5986"
-       preserveAspectRatio="none"
+       width="357.69305"
        height="536.53955"
-       width="357.69305" />
+       preserveAspectRatio="none"
+       id="image5986"
+       x="694.66913"
+       y="4824.3389" />
     <rect
        y="4567.4194"
        x="1193.7963"

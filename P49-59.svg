@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27500346"
-     inkscape:cx="-613.59302"
-     inkscape:cy="203.94253"
+     inkscape:zoom="0.14883425"
+     inkscape:cx="-2399.5918"
+     inkscape:cy="962.4514"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3521"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
@@ -1453,7 +1453,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1502,13 +1502,13 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/fondoPortada.png"
        xlink:href="fondoPortada.png"
-       width="1052.3625"
-       height="744.09497"
-       preserveAspectRatio="none"
-       id="image6876"
-       x="-0.00034410373"
+       style="opacity:1"
        y="-622.09808"
-       style="opacity:1" />
+       x="-0.00034410373"
+       id="image6876"
+       preserveAspectRatio="none"
+       height="744.09497"
+       width="1052.3625" />
     <rect
        y="308.26773"
        x="0"
@@ -2616,25 +2616,25 @@
    id="flowSpan3531"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'">Novaterra Catering</flowSpan>.</flowPara><flowPara
            id="flowPara3521" /></flowRoot>      <image
-         transform="scale(1,-1)"
-         width="221.60001"
-         height="145.60001"
-         preserveAspectRatio="none"
-         xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/elementos/128.jpg"
-         id="image3674"
-         x="111.95107"
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/o128.jpg"
+         xlink:href="imagenes/o128.jpg"
          y="-225.66841"
-         sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/elementos/128.jpg" />
-      <image
-         transform="scale(1,-1)"
-         width="317.60001"
-         height="101.6"
+         x="111.95107"
+         id="image3674"
          preserveAspectRatio="none"
-         xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/elementos/129.jpg"
-         id="image3739"
-         x="68.31871"
+         height="145.60001"
+         width="221.60001"
+         transform="scale(1,-1)" />
+      <image
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/o129.jpg"
+         xlink:href="imagenes/o129.jpg"
          y="-506.12936"
-         sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/elementos/129.jpg" />
+         x="68.31871"
+         id="image3739"
+         preserveAspectRatio="none"
+         height="101.6"
+         width="317.60001"
+         transform="scale(1,-1)" />
       <flowRoot
          transform="matrix(1,0,0,-1,9.8272524,669.37978)"
          xml:space="preserve"
@@ -2667,15 +2667,15 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
    id="flowSpan3784">Happy Office Box.</flowSpan></flowPara><flowPara
            id="flowPara3786" /></flowRoot>      <image
-         transform="scale(1,-1)"
-         width="207.2"
-         height="195.60092"
-         preserveAspectRatio="none"
-         xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/elementos/127.jpg"
-         id="image3889"
-         x="494.77051"
+         sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/o127.jpg"
+         xlink:href="imagenes/o127.jpg"
          y="-299.25916"
-         sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2015/elementos/127.jpg" />
+         x="494.77051"
+         id="image3889"
+         preserveAspectRatio="none"
+         height="195.60092"
+         width="207.2"
+         transform="scale(1,-1)" />
     </g>
     <g
        id="g4071"

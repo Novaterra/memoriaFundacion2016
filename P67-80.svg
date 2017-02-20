@@ -24,20 +24,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37118688"
-     inkscape:cx="1135.6793"
-     inkscape:cy="687.49332"
+     inkscape:zoom="0.27925138"
+     inkscape:cx="-26.946187"
+     inkscape:cy="1139.8879"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
      inkscape:bbox-nodes="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-width="1100"
+     inkscape:window-height="908"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -46,7 +46,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="1501.2661,4784.3266"
+       position="303.25434,5600.5771"
        orientation="0,1"
        id="guide6256" />
   </sodipodi:namedview>
@@ -1447,6 +1447,28 @@
          id="rect5374"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.76379975;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:#786daa;stroke-width:0.96383595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5703">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5979996;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#7b6eb0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect5705"
+         width="351.1427"
+         height="262.27325"
+         x="213.99768"
+         y="6774.2021" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6172">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect6174"
+         width="1214.358"
+         height="633.57812"
+         x="-63.358154"
+         y="7330.9668" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata6684">
@@ -1461,7 +1483,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(3.4410373e-4,-3846.6465)"
+     transform="translate(-1198.0115,-4662.897)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
@@ -1592,13 +1614,13 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/fondoPortada.png"
        xlink:href="fondoPortada.png"
-       style="opacity:1"
-       y="-622.09808"
-       x="-0.00034410373"
-       id="image6876"
-       preserveAspectRatio="none"
+       width="1052.3625"
        height="744.09497"
-       width="1052.3625" />
+       preserveAspectRatio="none"
+       id="image6876"
+       x="-0.00034410373"
+       y="-622.09808"
+       style="opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="rect4604"
@@ -2130,14 +2152,7 @@
            height="36.473892"
            x="1572.7543"
            y="1445.8522" /></flowRegion><flowPara
-         id="flowPara8871" /></flowRoot>    <path
-       transform="matrix(1.0088645,0,0,-0.88508775,947.33779,5296.3064)"
-       sodipodi:nodetypes="ssssscccssss"
-       inkscape:connector-curvature="0"
-       id="path11716"
-       d="m 1695.5228,4797.9619 351.2874,0 c 18.4547,0 33.3117,14.8571 33.3117,33.3118 l 0,161.5114 c 0,18.4547 -14.857,33.3118 -33.3117,33.3118 l -247.1883,0 -86.0784,61.2761 36.4739,-61.2761 -54.4946,0 c -18.4547,0 -33.3117,-14.8571 -33.3117,-33.3118 l 0,-161.5114 c 0,-18.4547 14.857,-33.3118 33.3117,-33.3118 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.52100003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5965-6);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <text
+         id="flowPara8871" /></flowRoot>    <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.03591919px;line-height:125%;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.176126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="3058.928"
@@ -3066,7 +3081,13 @@
            x="1293.295"
            y="-528.45312"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
-         id="flowPara4619">En la Fundación Novaterra creemos firmemente en la cooperación, la creación de sinergias y el trabajo en red para conseguir unos objetivos comunes. Con esta finalidad, a lo largo del año hemos acercado a nuestro proyecto a multitud de personalidades del ámbito público, privado y organizacional, con el fin de remar en la misma dirección y crear estrategias comunes contra la pobreza y la exclusión social a través del empleo.</flowPara><flowPara
+         id="flowPara4619">En la Fundación Novaterra creemos firmemente en la<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4132"> cooperación, la creación de sinergias y el trabajo en red </flowSpan>para conseguir unos objetivos comunes. Con esta finalidad, a lo largo del año hemos <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4134">acercado a nuestro proyecto a multitud de personalidades del ámbito público, privado y organizacional</flowSpan>, con el fin de remar en la misma dirección y <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4136">crear estrategias comunes</flowSpan> contra la pobreza y la exclusión social a través del empleo.</flowPara><flowPara
          id="flowPara4621" /></flowRoot>    <rect
        y="2089.4148"
        x="2174.1799"
@@ -3782,13 +3803,6 @@
          inkscape:connector-curvature="0" />
     </g>
     <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39400017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect5154"
-       width="6.4389653"
-       height="1.6097413"
-       x="-42.485073"
-       y="4335.3188" />
-    <rect
        y="4564.9756"
        x="792.90057"
        height="25.766138"
@@ -3871,9 +3885,9 @@
        width="1052.3625"
        height="744.09497"
        x="1198.0115"
-       y="3837.9846" />
+       y="3851.9846" />
     <rect
-       y="3837.9846"
+       y="3851.9846"
        x="2178.304"
        height="25.766138"
        width="74.807396"
@@ -3883,15 +3897,15 @@
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="2191.3508"
-       y="3857.9624"
+       y="3871.9624"
        id="text5380"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5382"
          x="2191.3508"
-         y="3857.9624"> 2016</tspan></text>
+         y="3871.9624"> 2016</tspan></text>
     <g
-       transform="translate(209.05996,1767.271)"
+       transform="translate(209.05996,1781.271)"
        id="g5384"
        clip-path="url(#clipPath5446)">
       <path
@@ -3905,8 +3919,17 @@
          id="path5388"
          inkscape:connector-curvature="0" />
     </g>
+    <image
+       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/84.jpg"
+       y="4288.6006"
+       x="1720.8347"
+       id="image4213"
+       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/84.jpg"
+       preserveAspectRatio="none"
+       height="281.03955"
+       width="499.62582" />
     <rect
-       y="4536.6172"
+       y="4550.6172"
        x="2187.8716"
        height="45.46204"
        width="62.502598"
@@ -3915,69 +3938,59 @@
     <text
        sodipodi:linespacing="125%"
        id="text5392"
-       y="4572.1958"
+       y="4586.1958"
        x="2217.9209"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan5493"
          x="2217.9209"
-         y="4572.1958">67</tspan></text>
+         y="4586.1958">78</tspan></text>
+    <image
+       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/83.jpg"
+       y="4288.6006"
+       x="1226.0115"
+       id="image4148"
+       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/83.jpg"
+       preserveAspectRatio="none"
+       height="281.71307"
+       width="500.82321" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6dc1bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5396"
        width="259.46161"
        height="25.766138"
        x="1198.0115"
-       y="4556.3135" />
+       y="4570.3135" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="1216.8781"
-       y="4574.1685"
+       y="4588.1685"
        id="text5398"
        sodipodi:linespacing="125%"><tspan
          id="tspan5400"
          sodipodi:role="line"
          x="1216.8781"
-         y="4574.1685">5 · NOVATERRA</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text5414"
-       y="4143.5342"
-       x="1492.2136"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.64625072px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00719751px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       xml:space="preserve"><tspan
-         id="tspan5416"
-         sodipodi:role="line"
-         x="1493.9366"
-         y="4143.5342">María Villajos, del Ayuntamiento de Paterna, </tspan><tspan
-         id="tspan5418"
-         sodipodi:role="line"
-         x="1492.2136"
-         y="4159.1807">Amparo Mora, exdiputada y Reme Avia,</tspan><tspan
-         id="tspan5420"
-         sodipodi:role="line"
-         x="1492.2136"
-         y="4174.8267">exalcaldesa de Alcacer (De izq. a dcha.)</tspan></text>
+         y="4588.1685">5 · NOVATERRA</tspan></text>
     <image
        sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/81 .png"
-       y="3963.3992"
-       x="1748.1071"
+       y="3949.7734"
+       x="2008.0839"
        id="image5346"
        xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/81%20.png"
        preserveAspectRatio="none"
-       height="225"
-       width="336" />
+       height="104.12807"
+       width="155.49792" />
     <image
        sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/82.png"
-       y="4188.3994"
-       x="1919.1071"
+       y="4087.5774"
+       x="2030.9105"
        id="image5357"
        xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/82.png"
        preserveAspectRatio="none"
-       height="199"
-       width="165" />
+       height="139.73067"
+       width="115.85709" />
     <image
        sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/caixapopular.png"
        y="4058.604"
@@ -3996,5 +4009,366 @@
        preserveAspectRatio="none"
        height="105.25853"
        width="238.77438" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4066"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00951045px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(-32.743361,4448.9922)"><flowRegion
+         id="flowRegion4068"><rect
+           id="rect4070"
+           width="682.18384"
+           height="400.15359"
+           x="1293.295"
+           y="-528.45312"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
+         id="flowPara4076">En 2016 organizamos una <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4138">visita al proyecto “Feina amb Cor”,</flowSpan> que está desarrollando en el área metropolitana de Barcelona Ingeus para Cáritas, una actividad enmarcada dentro de la <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4140">alianza Ingeus-Novaterra</flowSpan>, con la que se ha propuesto a la Generalitat Valenciana un<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4142"> Plan de empleo, destinado a 4.000 personas desempleadas de larga duración</flowSpan> circunscritos a la Ciudad de Valencia y a las comarcas de l’Horta del Sud, l’Horta del Nord, L`Alcoià y la Ribera.</flowPara><flowPara
+         id="flowPara4078" /><flowPara
+         id="flowPara4080"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4144">La visita reunió de manera histórica a varios dirigentes políticos en torno a una preocupación común</flowSpan>: encontrar los mejores mecanismos para atajar el problema del paro, y la situación de pobreza y exclusión social derivada de la falta de un empleo, en sus regiones.</flowPara><flowPara
+         id="flowPara4082" /><flowPara
+         id="flowPara4084">Bajo este programa <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4146">se ha trabajado ya con más de 3.000 personas</flowSpan> en el área metropolitana de <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4148">Barcelona</flowSpan>, y el <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
+   id="flowSpan4150">60% de ellas ha encontrado un trabajo. “Tenemos la necesidad de enviar un mensaje conjunto de que muchas de las personas que se piensan en la cuneta son recuperables</flowSpan>. La efectividad de un programa como “Feina amb cor” lo demuestra, y ahora queremos entrar en Valencia de la mano de Novaterra”, destacó Gregori Cascante, responsable del programa.</flowPara></flowRoot>    <rect
+       y="4657.5586"
+       x="-0.00034410373"
+       height="744.09497"
+       width="1052.3625"
+       id="rect4216"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       y="4657.5596"
+       x="0"
+       height="25.766138"
+       width="74.807396"
+       id="rect4218"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="13.046875"
+       y="4677.5371"
+       id="text4220"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4222"
+         x="13.046875"
+         y="4677.5371"> 2016</tspan></text>
+    <g
+       clip-path="url(#clipPath5446)"
+       id="g4224"
+       transform="translate(-2.1294731e-5,2586.8456)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4226"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         style="fill:#8dc8ab" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4228"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         style="fill:#786daa" />
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6dc1bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4233"
+       width="259.46161"
+       height="25.766138"
+       x="792.90057"
+       y="5375.8877" />
+    <rect
+       y="5356.1914"
+       x="-0.00034410373"
+       height="45.46204"
+       width="62.502598"
+       id="rect4235"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4237"
+       y="5391.77"
+       x="30.049162"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4389"
+         x="30.049162"
+         y="5391.77">79</tspan></text>
+    <rect
+       y="4711.002"
+       x="-0.44370347"
+       height="45.227627"
+       width="1052.8059"
+       id="rect4241"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46000001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.01px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="67.710106"
+       y="4746.5361"
+       id="text4243"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4321"
+         x="67.710106"
+         y="4746.5361">Nuevos Convenios de Colaboración</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4247"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00951045px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="translate(-1231.8595,5305.3913)"><flowRegion
+         id="flowRegion4249"><rect
+           id="rect4251"
+           width="904.44385"
+           height="70.131149"
+           x="1293.295"
+           y="-528.45312"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.41250038px;line-height:120.00000477%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></flowRegion><flowPara
+         id="flowPara4323">Y hemos sellado nuevos convenios de colaboración con un único fin: unir esfuerzos.</flowPara></flowRoot>    <rect
+       y="4662.897"
+       x="1198.0115"
+       height="744.09497"
+       width="1052.3625"
+       id="rect4259"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4261"
+       width="74.807396"
+       height="25.766138"
+       x="2178.304"
+       y="4662.897" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4263"
+       y="4682.8745"
+       x="2191.3508"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="4682.8745"
+         x="2191.3508"
+         id="tspan4265"
+         sodipodi:role="line"> 2016</tspan></text>
+    <g
+       clip-path="url(#clipPath5446)"
+       id="g4267"
+       transform="translate(209.05996,2592.1833)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4269"
+         d="m 1040.9871,2110.0633 c -0.1317,-0.1586 -2.2981,-4.2338 -2.2981,-4.3227 0,-0.041 0.3767,-0.08 0.8371,-0.086 0.4603,-0.01 2.1119,-0.036 3.6701,-0.064 l 2.8331,-0.052 -0.035,-12.105 c -0.019,-6.6578 -0.058,-12.9936 -0.086,-14.0796 l -0.051,-1.9746 -3.6916,-0.043 -3.6916,-0.043 0.021,-5.8808 c 0.035,-9.7039 0.1767,-24.5429 0.2349,-24.6371 0.037,-0.059 2.2662,-0.088 6.7441,-0.088 l 6.6897,0 0.04,0.1932 c 0.061,0.2942 0.2039,63.1133 0.1441,63.1823 -0.028,0.033 -2.5763,0.072 -5.6611,0.086 -4.4758,0.021 -5.6274,0 -5.7001,-0.084 z"
+         style="fill:#8dc8ab" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4271"
+         d="m 989.01068,2104.1206 c 0.046,-5.0518 0.3035,-51.3563 0.3116,-56.1251 l 0,-1.3951 23.99382,0 23.9938,0 0.046,0.1931 c 0.026,0.1063 0.036,10.7207 0.023,23.5876 l -0.024,23.3945 -0.5242,-0.9444 c -0.2882,-0.5194 -1.6555,-2.9726 -3.0384,-5.4515 -1.3828,-2.479 -3.1894,-5.7241 -4.0145,-7.2115 -0.8251,-1.4874 -1.561,-2.7526 -1.6354,-2.8117 -0.104,-0.083 -1.0967,-0.107 -4.304,-0.106 -2.2929,0 -4.2173,0.032 -4.2764,0.07 -0.086,0.054 -0.1032,2.9313 -0.086,14.0998 l 0.022,14.0314 4.1965,0.072 c 3.5067,0.06 4.2159,0.052 4.314,-0.046 0.099,-0.099 0.1047,-1.3941 0.037,-8.1823 -0.044,-4.4356 -0.064,-8.0819 -0.043,-8.1027 0.021,-0.021 0.053,-0.022 0.073,0 0.059,0.06 8.0384,14.2546 9.936,17.6742 0.9815,1.7685 1.7664,3.2335 1.7443,3.2556 -0.022,0.022 -11.462,0.062 -25.4222,0.09 l -25.38212,0.05 0.057,-6.1383 z"
+         style="fill:#786daa" />
+    </g>
+    <image
+       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/89.jpg"
+       y="4758.1782"
+       x="1196.3563"
+       id="image4611"
+       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/89.jpg"
+       preserveAspectRatio="none"
+       height="695.68341"
+       width="1054.0848" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4275"
+       width="62.502598"
+       height="45.46204"
+       x="2187.8716"
+       y="5361.5293" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.51250076px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="2217.9209"
+       y="5397.1079"
+       id="text4277"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4391"
+         x="2217.9209"
+         y="5397.1079">80</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.53500001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#58bcb7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4614"
+       width="779.14032"
+       height="650.10925"
+       x="1357.577"
+       y="4757.4321" />
+    <rect
+       y="5381.2256"
+       x="1198.0115"
+       height="25.766138"
+       width="259.46161"
+       id="rect4283"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6dc1bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4285"
+       y="5399.0806"
+       x="1216.8781"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.844;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="5399.0806"
+         x="1216.8781"
+         sodipodi:role="line"
+         id="tspan4287">5 · NOVATERRA</tspan></text>
+    <image
+       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/86.JPG"
+       y="4820.2866"
+       x="622.79987"
+       id="image4414"
+       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/86.JPG"
+       preserveAspectRatio="none"
+       height="262.27328"
+       width="351.1427" />
+    <image
+       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/87.JPG"
+       y="5100.5601"
+       x="151.39783"
+       id="image4425"
+       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/87.JPG"
+       preserveAspectRatio="none"
+       height="262.27325"
+       width="351.1427" />
+    <image
+       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/88.JPG"
+       y="5100.5601"
+       x="622.54053"
+       id="image4436"
+       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/88.JPG"
+       preserveAspectRatio="none"
+       height="262.27328"
+       width="351.1427" />
+    <image
+       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/85.jpg"
+       y="4820.2866"
+       x="151.3978"
+       id="image4403"
+       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/85.jpg"
+       preserveAspectRatio="none"
+       height="267.97733"
+       width="351.1427" />
+    <rect
+       y="5063.7632"
+       x="151.13849"
+       height="24.500847"
+       width="351.40204"
+       id="rect4439"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.71100003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.71374989px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00630835px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="324.04657"
+       y="5080.0845"
+       id="text4441"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4493"
+         x="324.04657"
+         y="5080.0845">Convenio con Asociación IDOGS</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.71100003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4495"
+       width="351.40204"
+       height="24.500847"
+       x="622.79987"
+       y="5058.0591" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4497"
+       y="5074.3804"
+       x="795.70795"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.71374989px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00630835px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4513"
+         x="795.70795"
+         y="5074.3804">Convenio con Geroresidencias La Saleta</tspan></text>
+    <rect
+       y="5338.3325"
+       x="151.39783"
+       height="24.500847"
+       width="351.40204"
+       id="rect4501"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.71100003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.71374989px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00630835px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="324.30591"
+       y="5354.6538"
+       id="text4503"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4515"
+         x="324.30591"
+         y="5354.6538">Convenio con Leñas Legua</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.71100003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4507"
+       width="351.40204"
+       height="24.500847"
+       x="622.54053"
+       y="5338.3325" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4509"
+       y="5354.6538"
+       x="795.44861"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.71374989px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00630835px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4517"
+         x="795.44861"
+         y="5354.6538">Convenio MC Spain</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.46000001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4519"
+       width="1052.8059"
+       height="45.227627"
+       x="1198.0115"
+       y="4712.4458" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text4521"
+       y="4747.98"
+       x="1266.1653"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.01px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4533"
+         x="1266.1653"
+         y="4747.98">Asociaciones de las que formamos parte</tspan></text>
+    <flowRoot
+       transform="matrix(1,0,0,1.1731549,129.74505,5451.3263)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00004196px;line-height:200%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00951045px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot4525"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4527"><rect
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00004196px;line-height:200%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           y="-528.45312"
+           x="1293.295"
+           height="404.1947"
+           width="915.21997"
+           id="rect4529" /></flowRegion><flowPara
+         id="flowPara4535">Agevalcee- Agrupación Empresarial Valenciana de Centros Especiales de Empleo</flowPara><flowPara
+         id="flowPara4537">Asociación Española de Fundaciones</flowPara><flowPara
+         id="flowPara4539">Asociación Española de Fundraising</flowPara><flowPara
+         id="flowPara4541">Enclau- Red de Financiación Alternativa </flowPara><flowPara
+         id="flowPara4543">Fiare Xarxa Valenciana- Banca Ética </flowPara><flowPara
+         id="flowPara4545">EAPN Xarxa per la Inclusió Social</flowPara><flowPara
+         id="flowPara4547">Red Sostenible y creativa</flowPara></flowRoot>  </g>
 </svg>

@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17950567"
-     inkscape:cx="999.8622"
-     inkscape:cy="1858.4024"
+     inkscape:zoom="0.19430004"
+     inkscape:cx="654.65518"
+     inkscape:cy="1438.1893"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      fit-margin-top="0"
@@ -46,7 +46,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="1497.973,3043.7997"
+       position="1497.9731,3043.7997"
        orientation="0,1"
        id="guide6256" />
   </sodipodi:namedview>
@@ -156,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -173,11 +173,11 @@
        x="1193.8875"
        y="-627.40314" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/p.50.jpg"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/p.50.jpg"
+       xlink:href="imagenes/p.50.jpg"
        y="-365.01578"
        x="1193.8875"
        id="image4039"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/p.50.jpg"
        preserveAspectRatio="none"
        height="481.70761"
        width="857.83551" />
@@ -189,11 +189,11 @@
        id="rect5833"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/22.jpg"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/22.jpg"
+       xlink:href="imagenes/22.jpg"
        y="1309.9631"
        x="1498.3077"
        id="image6377"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/22.jpg"
        preserveAspectRatio="none"
        height="726"
        width="972"
@@ -615,7 +615,7 @@
            height="122.02529"
            width="710.81934"
            id="rect3756" /></flowRegion><flowPara
-         id="flowPara5363">Situado en el Barrio de La Coma (Paterna), y con una superficie de 1.200 m2, Espai Novaterra supone la revitalización de las instalaciones del antiguo Colegio Mayor de La Coma, que supuso un emblema de la integración social durante más de 20 años, hoy convertido hoy en:</flowPara><flowPara
+         id="flowPara5363">Situado en el Barrio de La Coma (Paterna), y con una superficie de 1.200 m2, Espai Novaterra supone la revitalización de las instalaciones del antiguo Colegio Mayor de La Coma, que supuso un emblema de la integración social durante más de 20 años, hoy convertido en:</flowPara><flowPara
          id="flowPara5365" /></flowRoot>    <rect
        y="796.93945"
        x="-42.485073"
@@ -647,7 +647,7 @@
          sodipodi:role="line"
          id="tspan4003"
          x="30.049162"
-         y="1042.4788">60</tspan></text>
+         y="1042.4788">62</tspan></text>
     <rect
        y="350.51129"
        x="1193.8875"
@@ -673,8 +673,8 @@
        transform="translate(1704.9922,194.44632)"><flowRegion
          id="flowRegion4925"><rect
            id="rect4927"
-           width="312.31787"
-           height="624.89972"
+           width="369.41913"
+           height="584.51105"
            x="-434.59937"
            y="227.10709"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
@@ -744,47 +744,47 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
    id="flowSpan6854">140 personas de manera gratuita a las entidades y asociaciones valencianas.</flowSpan> Un espacio para sus actividades, reuniones, para compartir. Un espacio plural, dinámico, sostenible, coherente.</flowPara><flowPara
          id="flowPara5675" /></flowRoot>    <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/cartelSpai.png"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/cartelSpai.png"
+       xlink:href="imagenes/cartelSpai.png"
        y="407.69604"
        x="597.81219"
        id="image5504"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/cartelSpai.png"
        preserveAspectRatio="none"
        height="612.90002"
        width="440.54999" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.JPG"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.JPG"
+       xlink:href="imagenes/21.JPG"
        y="751.42053"
        x="152.49605"
        id="image5569"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.JPG"
        preserveAspectRatio="none"
        height="236.85439"
        width="323.38977" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/caixapopular.png"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/caixapopular.png"
+       xlink:href="imagenes/caixapopular.png"
        y="419.11469"
        x="180.88637"
        id="image5666"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/caixapopular.png"
        preserveAspectRatio="none"
        height="93.637558"
        width="240.70195" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/15.JPG"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/15.JPG"
+       xlink:href="imagenes/15.JPG"
        y="395.73892"
        x="1884.5208"
        id="image5741"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/15.JPG"
        preserveAspectRatio="none"
        height="270.51169"
        width="362.17267" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/16.jpg"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/16.jpg"
+       xlink:href="imagenes/16.jpg"
        y="395.73892"
        x="1704.2593"
        id="image5806"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/16.jpg"
        preserveAspectRatio="none"
        height="270.18097"
        width="180.26137" />
@@ -815,8 +815,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
            y="227.10709"
            x="-434.59937"
-           height="366.41739"
-           width="343.59918"
+           height="323.24326"
+           width="449.44543"
            id="rect5821" /></flowRegion><flowPara
          id="flowPara5831">Los representantes de las 18 entidades valencianas que forman el programa Incorpora de la Obra social “la Caixa” se reunieron en nuestras instalaciones.</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.78455687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -958,7 +958,7 @@
          sodipodi:role="line"
          id="tspan6521"
          x="1262.0413"
-         y="1268.5078">ciclo de conferencias</tspan></text>
+         y="1268.5078">Ciclo </tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.81400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5897"
@@ -991,29 +991,29 @@
            id="rect5907" /></flowRegion><flowPara
          id="flowPara5947">Con el objetivo de sensibilizar a las futuras generaciones, como cada año acogimos en el Espai Novaterra la visitas de distintos colegios e institutos para darles a conocer el proyecto Novaterra y movilizarlos a la acción a través del activismo social y el voluntariado.</flowPara><flowPara
          id="flowPara5949" /></flowRoot>    <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/17 IES Enric Valor de Picanya.jpg"
-       y="1375.5876"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/17 IES Enric Valor de Picanya.jpg"
+       xlink:href="imagenes/17 IES Enric Valor de Picanya.jpg"
+       y="1373.5876"
        x="72.840981"
        id="image6013"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/17%20IES%20Enric%20Valor%20de%20Picanya.jpg"
        preserveAspectRatio="none"
        height="261.27371"
        width="465.28195" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/18 Estudiantes de EPLA y Xaverianas.jpg"
-       y="1471.2788"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/18 Estudiantes de EPLA y Xaverianas.jpg"
+       xlink:href="imagenes/18 Estudiantes de EPLA y Xaverianas.jpg"
+       y="1375.2788"
        x="576.99036"
        id="image6080"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/18%20Estudiantes%20de%20EPLA%20y%20Xaverianas.jpg"
        preserveAspectRatio="none"
        height="257.41635"
        width="458.41266" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/19 Visita Vedrunas Valencia.jpg"
-       y="1668.8613"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/19 Visita Vedrunas Valencia.jpg"
+       xlink:href="imagenes/19 Visita Vedrunas Valencia.jpg"
+       y="1658.8613"
        x="72.840981"
        id="image6151"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/19%20Visita%20Vedrunas%20Valencia.jpg"
        preserveAspectRatio="none"
        height="261.27374"
        width="465.28195" />
@@ -1037,7 +1037,7 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
    id="flowSpan4322">charlas, <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold Italic'"
-   id="flowSpan4323">showcookings </flowSpan>y diversos talleres,</flowSpan> a lo largo del año, hemos avanzado, JUNTOS, en la medida de nuestras posibilidades, en la <flowSpan
+   id="flowSpan4323">showcookings </flowSpan>y diversos talleres,</flowSpan> a lo largo del año, hemos avanzado, JUNT@S, en la medida de nuestras posibilidades, en la <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web Bold'"
    id="flowSpan4324">construcción de ese mundo inclusivo</flowSpan> que queremos y en el que creemos.</flowPara></flowRoot>    <g
        transform="matrix(0.54477337,0,0,0.54477337,-1973.8545,5859.5821)"
@@ -1127,20 +1127,20 @@
            sodipodi:role="line">e inclusión</tspan></text>
     </g>
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.jpg"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.jpg"
+       xlink:href="imagenes/21.jpg"
        y="1582.192"
        x="1276.0588"
        id="image6312"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/21.jpg"
        preserveAspectRatio="none"
        height="89.846306"
        width="206.40366" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/23.jpg"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/23.jpg"
+       xlink:href="imagenes/23.jpg"
        y="1662.1144"
        x="1300.8365"
        id="image6442"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/23.jpg"
        preserveAspectRatio="none"
        height="507.13611"
        width="678.97559"
@@ -1232,11 +1232,11 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/25.jpg"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/25.jpg"
+       xlink:href="imagenes/25.jpg"
        y="2482.7397"
        x="2.0988169"
        id="image6784"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/25.jpg"
        preserveAspectRatio="none"
        height="366.8176"
        width="653.23682" />
@@ -1272,11 +1272,11 @@
        d="m 26.729035,2216.4277 444.805845,0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#786daa;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/24.jpg"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/24.jpg"
+       xlink:href="imagenes/24.jpg"
        y="2145.5623"
        x="404.08167"
        id="image6719"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/24.jpg"
        preserveAspectRatio="none"
        height="365.88342"
        width="651.5733" />
@@ -1356,14 +1356,14 @@
          id="flowPara5382">La sede y cocina central de Novaterra Catering Sostenible.</flowPara><flowPara
          id="flowPara5384" /><flowPara
          id="flowPara5386">Un espacio multifuncional al servicio de las organizaciones valencianas</flowPara></flowRoot>    <rect
-       y="1613.762"
+       y="1611.762"
        x="350.8761"
        height="23.099457"
        width="187.24684"
        id="rect5326"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
-       transform="translate(-176.52839,4509.1104)"
+       transform="translate(-176.52839,4507.1104)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="flowRoot5328"
        xml:space="preserve"><flowRegion
@@ -1457,15 +1457,15 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6926"
-       width="208.19572"
+       width="253.004"
        height="23.099457"
-       x="827.20734"
-       y="1705.5957" />
+       x="782.39905"
+       y="1609.5957" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6928"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       transform="translate(320.75166,4600.9442)"><flowRegion
+       transform="translate(294.75166,4504.9442)"><flowRegion
          id="flowRegion6930"><rect
            id="rect6932"
            width="1055.5596"
@@ -1490,12 +1490,12 @@
        width="187.24684"
        height="23.099457"
        x="350.8761"
-       y="1907.0356" />
+       y="1897.0356" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6984"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       transform="translate(-176.5284,4802.3841)"><flowRegion
+       transform="translate(-176.5284,4792.3841)"><flowRegion
          id="flowRegion6986"><rect
            id="rect6988"
            width="1055.5596"
@@ -1558,15 +1558,70 @@
            y="108.78069">5 · ESPAI NOVATERRA</tspan></text>
     </g>
     <image
-       sodipodi:absref="/var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/14.JPG"
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/14.JPG"
+       xlink:href="imagenes/14.JPG"
        y="746.59436"
        x="1521.584"
        id="image4883"
-       xlink:href="file:///var/www/kgestion/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/14.JPG"
        preserveAspectRatio="none"
        height="291.82721"
        width="390.71082"
        clip-path="url(#clipPath4888)"
        transform="matrix(1.2941119,0,0,1.2941119,-776.03373,-285.22955)" />
+    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/Escuela Profesional Xavier.jpg"
+       xlink:href="imagenes/Escuela Profesional Xavier.jpg"
+       y="1659.5706"
+       x="576.99036"
+       id="image4759"
+       preserveAspectRatio="none"
+       height="257.41635"
+       width="458.41266" />
+    <rect
+       y="1893.8875"
+       x="782.39905"
+       height="23.099457"
+       width="253.004"
+       id="rect4479"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#53497e;fill-opacity:0.75871313;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(304.75166,4789.2359)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-0.00747504px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="flowRoot4481"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4483"><rect
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Titillium Web';-inkscape-font-specification:'Titillium Web, Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           y="-2890.5444"
+           x="90.015831"
+           height="181.02672"
+           width="1055.5596"
+           id="rect4485" /></flowRegion><flowPara
+         id="flowPara4511">Escuela Profesional Xavier</flowPara><flowPara
+         id="flowPara4513" /><flowPara
+         id="flowPara4515" /><flowPara
+         id="flowPara4517" /><flowPara
+         id="flowPara4519" /><flowPara
+         id="flowPara4521" /><flowPara
+         id="flowPara4523" /><flowPara
+         id="flowPara4525" /><flowPara
+         id="flowPara4527" /><flowPara
+         id="flowPara4529" /><flowPara
+         id="flowPara4531" /></flowRoot>    <image
+       sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/MemoriaAnual/2016/imagenes/DAVIDARIZA_FB_PERFIL-01.png"
+       xlink:href="imagenes/DAVIDARIZA_FB_PERFIL-01.png"
+       y="2312.937"
+       x="113.62696"
+       id="image4619"
+       preserveAspectRatio="none"
+       height="153.9716"
+       width="153.9716" />
+    <image
+       y="2632.521"
+       x="787.14075"
+       id="image4697"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcg SlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwK DAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQU FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgBXgFe AwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMF BQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkq NDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqi o6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/E AB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMR BAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVG R0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKz tLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A /VOkoooABRRRmgAo7ijNAoAO9HeiigAoFFFAB2o70Ud6ACjtRRQAdqKO1FABR3oo70AFFHeigA7U dqKO1ABS0gooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAWikooAKKK DQAUYpKKAFpKO1FAC0UlFAC0UlFAC0UlLQAUUUUAFFFFABRR2ooAKKKKACiiigApaSigBaKSigBa KSigBaSiigBaKSigBaKSigBaKSigApaSigBaKSigBaKSigBaKSigAoNH4UGgBKO1FHagA7UUdqKA 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 hDxnaQyyF8KxIHynBJwDW1j9qiDQ2SWXw819YvNBGs+nXTyllkhEu4K0K4wGA+bAznJHGfZ5/C2k XQi83S7KTyl2R77dDsXBGBxwMEjFTHRLAoF+x2+0AADyl4wAB29ABQB5Jrn7R0OieFv7Ybw7dX5j neGW30+bz8gRxybo2VcPxKuc7QCGGSQM4+qfte6PpaxbvDuqyNPbrNAigZlfyo3eEDrvQyqpHXqe le6Q6JY28CQRWdvHAhJWNIlCqScnAx680p0WxMqyfZIPMVzIG8pchiMFh744zQB4rJ+1LYHxJYaV b6K9yt/cyw210lzuXZGGLPIFQmMtj5Achhk7htONLwH+0Ta+ONTsrb+xJrDzrg2rBpt0qSeS8wYQ lQ5i2IR5hA+YgYPWvUD4U0clidKsstIJT/oycuBgN06gd6ng0Wyt7oXKWlulwF2CVYlDhe4yOccC gC1DKlxEkqco6hlypBwfY81JikVdvvS0AGKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig AooooAKKKKACj0o7UUAFHeijvQAUCjvQKADtSd6XtRQAneilpKADtRRS0AJR3ope9ACd6O9FLQAl HaiigBe1Haj60UAFFFH86AD+dFFHFABRRxRxj2oAO1FFFABR/Oj+dFABRRxRxQAUdqOMe1FABRRR /OgA/nRRRxQAUCjijj8KACiiigAooooAKPSij0oAKO9FHegA70CigUAHakpe1J3oAKKO9FAB2oo7 UUAFHeijvQAUUUd6ACjtRR2oAWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii igAooooAKKKKACiiigAoo7UelAB/Kj+VFHegAoooFAB2o70dqTvQAvekoooAO1FHaigApe9JR3oA KXvSUUAFHaijtQAtFFFABR/KiigAooooAKP50UUAFFFFAB/KiiigAooooAP50UUUAFH8qKKACiii gAooooAKKKKACiiigAo9KKPSgAo70Ud6ACgUUCgA7Unel7UnegAoo70UAHaijtRQAUd6KO9ABRR3 o70AFHaijtQAtFHajtQAUUUUAFFH86KACiiigAoo7UUAFFFH86ACiiigAooo7UAFFFFABRR/OigA oooFABRRRQAUUUUAHaiij0oAKO9FHegA70CjvQKADtRR2pKAFpKKKAClpO1FABS96SjvQAUtJRQA UUUdqAF+tFFFABR/OiigAo4oooAOKOMe1FFABRRRQAfzooooAOKOKKKADjHtRRRQAUfzoooAKOKK KADijj8KKKACiiigAooooAKPSij0oAKO9FHegAoFHegUAHak70vakoAO9FLSUAHaijtRQAUd6KXv QAlHeiloASjtRR2oAWijpRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUU Af/Z "
+       preserveAspectRatio="none"
+       height="180.08894"
+       width="180.08894" />
   </g>
 </svg>
